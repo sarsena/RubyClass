@@ -1,6 +1,6 @@
 mysql:
-  host: 127.4.131.129
+  host: 127.4.141.1
   username: sarsena
   password: 
   database: ruby_class
-  
+ 
