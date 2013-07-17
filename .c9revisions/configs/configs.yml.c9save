@@ -1,0 +1,2 @@
+{"ts":1374023355609,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1374023604678,"patch":[[{"diffs":[[1,"mysql:\n  host: 127.4.131.129\n  username: sarsena\n  password: \n  database: ruby_class\n  "]],"start1":0,"start2":0,"length1":0,"length2":87}]],"length":87,"saved":false}

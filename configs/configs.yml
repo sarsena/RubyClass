@@ -1,0 +1,6 @@
+mysql:
+  host: 127.4.131.129
+  username: sarsena
+  password: 
+  database: ruby_class
+  
