@@ -8,6 +8,7 @@ client = Mysql2::Client.new(:host => config["host"], :username => config["userna
 
 files = "*.csv"
 files = Dir.glob files
+
 client.query("Truncate table Customers")
 $message = nil
 begin 
@@ -30,3 +31,4 @@ rescue Exception => e
 ensure
   client.query "COMMIT"
 end
+
